@@ -1,0 +1,33 @@
+								PyCitySchools Analysis
+
+
+	In reviewing the results from the PyCitySchools data, Charter schools are outperforming District schools.  
+Particularly in math, the scores average for Charter schools are much higher.  The top five highest-performing 
+schools are all Charter and the bottom performing schools are all District.  Charter schools also have a much 
+higher over passing percentage than District schools.
+
+	There are many factors that may have contributed to their outperformance.  Charter schools have fewer 
+students that can allow for an individualized learning experience with more resources available.  There may 
+be fewer students to instructional staff and the staff can have a better understanding of each student’s
+progress to restructure accordingly.  This allows for the staff to make better decisions for improvement.  
+Such as, should there be more tutoring available? Can other programs be implemented? In clearly understanding 
+the impactful factors of student performance, they are likely to have board approval for changes and reallocation
+of funds.  There’s flexibility in managing the learning experience and catering to specific needs.  
+
+	The larger school size of District schools could mean overcrowding, fewer instructional staff per students and 
+limited time to work with any students that may need additional attention.  Perhaps, additional tutoring isn’t 
+possible because of limited staffing.  Resources can be limited, and decision making can be more difficult without
+a clearer understanding of what impacts a student’s success.  School leaders are unlikely to make changes when 
+they have little evidence to support a positive outcome.  
+
+	In addition, there seems to be little change in performance through grade levels.  The values are consistent 
+over the years for both school types and does not appear to be a significant factor in performance.  
+
+	A school’s budget can be one of their most significant resources.  However, the District schools’ higher budget,
+shows there is little impact on performance.  When looking at just the total budget, it may appear there are more 
+funds, but when comparing it as per student budget, then there is little difference between the school types.  Again,
+this is due to school size, with fewer students to distribute the budget at Charter schools.  So although, budget is 
+significance, there isn’t an impactful difference here due to distribution.
+
+	In conclusion, school size is a key factor in higher performance.  It not only allows for more resources, but 
+can also result in their better use and greater distribution.   
