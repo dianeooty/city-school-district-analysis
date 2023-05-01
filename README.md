@@ -1,4 +1,4 @@
-# pandas-challenge
+# city-school-district-analysis
 > For this project, I was tasked with using Pandas on two datasets regarding District and Charter schools to analyze
 performances. >
 
@@ -30,7 +30,7 @@ Project is complete and no longer being worked on.
 
 
 ## Acknowledgements
-- Many thanks to my instructional staff and tutor.
+- Many thanks to my instructional team and David Chao.
 
 
 ## Contact
