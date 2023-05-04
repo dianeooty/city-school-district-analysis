@@ -21,6 +21,14 @@ schools budget to determine if any of these are contributing factors for perform
 - Pandas
 
 
+## Screenshots
+![1](https://user-images.githubusercontent.com/117790100/236305428-005a4a0a-1181-4532-90ac-38c617643f8a.png)
+![2](https://user-images.githubusercontent.com/117790100/236305431-98ad6a4d-9e62-47c7-a804-419f7d4f697e.png)
+![3](https://user-images.githubusercontent.com/117790100/236305432-d77115d9-f272-48cc-bbff-ee65db613590.png)
+![4](https://user-images.githubusercontent.com/117790100/236305433-6a64bae4-1eaf-4a8e-96f2-1938923e92ed.png)
+![5](https://user-images.githubusercontent.com/117790100/236305435-f44133a6-10ff-4322-8595-0a67fcc43de9.png)
+
+
 ## Setup
 You can find the two datasets in the resource folder.
 
